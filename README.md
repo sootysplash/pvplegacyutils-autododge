@@ -1,6 +1,6 @@
 # PvP Legacy Utils
 
-**Original mod this was forked from: [PvP Legacy Utilities]([https://pvplegacy.net](https://github.com/AndyRusso/pvplegacyutils)).**
+**Original mod this was forked from: [PvP Legacy Utilities](https://github.com/AndyRusso/pvplegacyutils).**
 
 Proof of concept autoDodge for the pvp legacy minecraft server.
 
