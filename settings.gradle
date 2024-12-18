@@ -1,0 +1,15 @@
+pluginManagement {
+    repositories {
+        maven {
+            name = 'Fabric'
+            url = 'https://maven.fabricmc.net/'
+        }
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+include("pvplegacyutils-1.19")
+include("pvplegacyutils-1.19.3")
+include("pvplegacyutils-1.19.3-exclusive")
+include("pvplegacyutils-1.19.4")
